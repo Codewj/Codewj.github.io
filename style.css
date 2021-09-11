@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: "jon";
-    src: url(./font/TT-Interphases-Var-Roman.woff2);
+    src: url(https://filescodewj.github.io/font/TT-Interphases-Var-Roman.woff2);
 }
 body{
     font-family: jon;
